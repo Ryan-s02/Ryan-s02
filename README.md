@@ -16,5 +16,7 @@
 - MongoDB
 
 ☎️ Please reach out if you believe i would be a great fit for your company
-&nbsp; 📬 ryansmedley2@gmail.com
-&nbsp; 🖇️ www.linkedin.com/in/ryan--smedley
+
+  📬 ryansmedley2@gmail.com
+    
+  🖇️ www.linkedin.com/in/ryan--smedley
