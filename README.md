@@ -15,7 +15,7 @@
 - Express.js
 - MongoDB
 
-☎️ Please reach out if you believe i would be a great fit for your company
+☎️ Please reach out if you believe I would be a great fit for your company.
 
   📬 ryansmedley2@gmail.com
     
