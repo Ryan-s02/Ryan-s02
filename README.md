@@ -1,6 +1,6 @@
 # Welcome to my portfolio
 
-## 👋 Hey im Ryan
+## 👋 Hey I'm Ryan
 
 👨‍💻 My passion lies in Web development, I can't wait to find a role where I can reach my full potential!
 
